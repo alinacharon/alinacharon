@@ -7,6 +7,8 @@ Here, you'll find my projects in machine learning, data analysis, and more ⭐�
 ## Featured Projects 📈
 - [Bordeaux Wine Price Prediction](https://github.com/alinacharon/bordeaux-wine-price-prediction)  
   Predicting wine prices using ElasticNet regression 🍷
+- [Sound Analysis Project](https://github.com/alinacharon/STS_FR)                                                      
+  Analyzing sound evaluations from a CSV file and generating visualizations based on ratings and keywords 🔈
   
 ## My Skills 👩‍💻
 
