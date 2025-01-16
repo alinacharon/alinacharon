@@ -1,8 +1,8 @@
 # Hi there! 👋
 
 Welcome to my GitHub portfolio!  
-I'm Alina, a Python developer 🐍 and aspiring machine learning engineer 🤖.  
-Here, you'll find my projects in machine learning, data analysis, and more ⭐️.
+I'm Alina, a Python developer 🐍 and aspiring machine learning engineer 🤖  
+Here, you'll find my projects in machine learning, data analysis, and more ⭐️
 
 ## Featured Projects 📈
 - [Bordeaux Wine Price Prediction](https://github.com/alinacharon/bordeaux-wine-price-prediction)  
