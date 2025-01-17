@@ -5,6 +5,8 @@ I'm Alina, a Python developer 🐍 and aspiring machine learning engineer 🤖
 Here, you'll find my projects in machine learning, data analysis, and more ⭐️
 
 ## Featured Projects 📈
+- [Heart Disease Prediction Project](https://github.com/alinacharon/predicting_heart_disease)                                                           
+  Building a machine learning model to predict heart disease using patient health data ❤️📊
 - [Bordeaux Wine Price Prediction](https://github.com/alinacharon/bordeaux-wine-price-prediction)  
   Predicting wine prices using ElasticNet regression 🍷
 - [Sound Analysis Project](https://github.com/alinacharon/STS_FR)                                                      
