@@ -6,6 +6,7 @@ Here, you'll find my projects in machine learning, data analysis, python develop
 
 ## Featured Projects 📈
 - [Developing a CRM platform](https://github.com/alinacharon/Epic_Events)
+  
   Builted a secure back-end using Python and PostgreSQL, with authentication and optimized relational database modeling.
 - [Developing a RESTful API](https://github.com/alinacharon/SoftDesk)
   Developed a secure and performant RESTful API using Django REST Framework.
