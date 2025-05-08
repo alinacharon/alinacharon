@@ -6,10 +6,9 @@ Here, you'll find my projects in machine learning, data analysis, python develop
 
 ## Featured Projects 📈
 - [Developing a CRM platform](https://github.com/alinacharon/Epic_Events)
-  
-  Builted a secure back-end using Python and PostgreSQL, with authentication and optimized relational database modeling.
+   Builted a secure back-end using Python and PostgreSQL, with authentication and optimized relational database modeling.
 - [Developing a RESTful API](https://github.com/alinacharon/SoftDesk)
-  Developed a secure and performant RESTful API using Django REST Framework.
+   Developed a secure and performant RESTful API using Django REST Framework.
 - [Heart Disease Prediction Project](https://github.com/alinacharon/predicting_heart_disease)                                                           
   Building a machine learning model to predict heart disease using patient health data ❤️📊
 - [Bordeaux Wine Price Prediction](https://github.com/alinacharon/bordeaux-wine-price-prediction)  
