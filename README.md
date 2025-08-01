@@ -1,7 +1,6 @@
 # Hi there! 👋
 
 Welcome to my GitHub portfolio!  
-I'm Alina, a Python developer 🐍 and aspiring machine learning engineer 🤖  
 Here, you'll find my projects in machine learning, data analysis, python development and more ⭐️
 
 ## Featured Projects 📈
