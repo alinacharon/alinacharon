@@ -1,27 +1,53 @@
 # Hi there! 👋
 
 Welcome to my GitHub portfolio!  
-Here, you'll find my projects in machine learning, data analysis, python development and more ⭐️
+Here, you'll find my projects demonstrating **data analysis, machine learning, Python development, and business/project management skills** ⭐️
 
-## Featured Projects 📈
-- [Developing a CRM platform](https://github.com/alinacharon/Epic_Events)
-   Builted a secure back-end using Python and PostgreSQL, with authentication and optimized relational database modeling
-- [Developing a RESTful API](https://github.com/alinacharon/SoftDesk)
-   Developed a secure and performant RESTful API using Django REST Framework 
-- [Heart Disease Prediction Project](https://github.com/alinacharon/predicting_heart_disease)                                                           
-  Building a machine learning model to predict heart disease using patient health data ❤️📊
-- [Bordeaux Wine Price Prediction](https://github.com/alinacharon/bordeaux-wine-price-prediction)  
-  Predicting wine prices using ElasticNet regression 🍷
-- [Sound Analysis Project](https://github.com/alinacharon/STS_FR)                                                      
-  Analyzing sound evaluations from a CSV file and generating visualizations based on ratings and keywords 🔈
-  
-## My Skills 👩‍💻
+---
 
-- **Programming Languages**: Python, SQL, HTML5, CSS3, JavaScript
-- **Frameworks & Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Django, RestAPI
-- **Tools**: Jupyter Notebook, Git, Docker
-- **Areas of Interest**: Machine Learning, Data Analysis, Artificial Intelligence (AI), Predictive Modeling
+## 🌟 Featured Projects 
 
+### 💻 Development & Project Management Projects
+- **[CRM Platform](https://github.com/alinacharon/Epic_Events)**  
+  Designed and implemented a secure back-end using Python and PostgreSQL. Focused on **database modeling, user authentication, and process optimization**, improving team workflow and project efficiency.
 
+- **[RESTful API Development](https://github.com/alinacharon/SoftDesk)**  
+  Built a high-performance RESTful API with Django REST Framework. Delivered **documentation, automated testing, and project planning**, demonstrating end-to-end project ownership.
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/alina-charon/)!
+---
+
+### 📊 Data Analysis & Business Insights
+- **[Heart Disease Prediction](https://github.com/alinacharon/predicting_heart_disease)**  
+  Developed a predictive model to assess heart disease risk.
+
+- **[Bordeaux Wine Price Prediction](https://github.com/alinacharon/bordeaux-wine-price-prediction)**  
+  Built regression models to forecast wine prices.
+
+- **[Open Food Facts Database Analysis](https://github.com/alinacharon/nutrition_analysis.git)**  
+  Conducted a complete dataset analysis: **data transformation, exploratory analysis, dashboard creation, and insights reporting**.
+
+- **[Sound Analysis Project](https://github.com/alinacharon/STS_FR)**  
+  Analyzed sound ratings and keywords, generated visualizations and reports.
+
+---
+
+## 🛠 My Skills 
+
+### Programming & Data
+- **Languages**: Python, SQL, JavaScript, HTML5, CSS3  
+- **Frameworks & Libraries**: Django, Flask, REST API, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
+- **Tools**: Jupyter Notebook, Git, Docker, Looker Studio, MLFlow  
+
+### Cloud, DevOps & Data Engineering
+- AWS / Azure / GCP • MLOps • Databricks • PySpark • CI/CD • Docker  
+
+### Business Analysis & Project Management
+- Requirements gathering, KPI definition, reporting dashboards  
+- Data-driven decision-making & predictive modeling  
+- Project planning, Agile/Scrum methodology, team coordination  
+- Stakeholder communication and project documentation  
+
+---
+
+## 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/alina-charon/)
