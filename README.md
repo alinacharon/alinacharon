@@ -20,6 +20,11 @@ Here, you'll find my projects demonstrating **data analysis, machine learning, P
 
 - **[Open Food Facts Database Analysis](https://github.com/alinacharon/nutrition_analysis.git)**  
   Conducted a complete dataset analysis: **data transformation, exploratory analysis, dashboard creation, and insights reporting**.
+  
+- **[StackOverflow Tags Prediction API](https://github.com/alinacharon/stackoverflow-tag-predictor.git)**  
+  Developed a **ML-powered API** that predicts StackOverflow question tags using NLP and deep learning.  
+  Key contributions: **multi-label classification, text preprocessing, model integration with FastAPI, asynchronous API processing, logging, and health checks**.
+
 
 - **[Sound Analysis Project](https://github.com/alinacharon/STS_FR)**  
   Analyzed sound ratings and keywords, generated visualizations and reports.
