@@ -17,17 +17,18 @@ Here, you'll find my projects demonstrating **data analysis, machine learning, P
 ---
 
 ### 📊 Data Analysis & Business Insights
-- **[Heart Disease Prediction](https://github.com/alinacharon/predicting_heart_disease)**  
-  Developed a predictive model to assess heart disease risk.
-
-- **[Bordeaux Wine Price Prediction](https://github.com/alinacharon/bordeaux-wine-price-prediction)**  
-  Built regression models to forecast wine prices.
 
 - **[Open Food Facts Database Analysis](https://github.com/alinacharon/nutrition_analysis.git)**  
   Conducted a complete dataset analysis: **data transformation, exploratory analysis, dashboard creation, and insights reporting**.
 
 - **[Sound Analysis Project](https://github.com/alinacharon/STS_FR)**  
   Analyzed sound ratings and keywords, generated visualizations and reports.
+
+- **[Heart Disease Prediction](https://github.com/alinacharon/predicting_heart_disease)**  
+  Developed a predictive model to assess heart disease risk.
+
+- **[Bordeaux Wine Price Prediction](https://github.com/alinacharon/bordeaux-wine-price-prediction)**  
+  Built regression models to forecast wine prices.
 
 ---
 
